@@ -28,4 +28,3 @@ Facebook information gathering tool using Facebook Graph API and Python3.
 
 # Author
 - Email : pr0xy07@tutanota.com
-- Twitter : @pr0xy07
