@@ -18,13 +18,15 @@ Facebook information gathering tool using Facebook Graph API and Python3.
 - python3 -m pip install -r requirements.txt
 - python3 FacebookHunter.py
 
-# Contributors
-- There are many ways to improve this project, feel free to contribute with your pull request or contacting me.
 
 # Warnings
 - Only use this program for educational purposes only as I am not responsible for any damage caused by this program or you'r actions.
 - Dont abuse and overuse this program as it might temporary lock your Facebook account because of 'Suspicious Activity', and will ask you to verify that the account is yours.
 - All requests being made from FacebookHunter are for the Facebook's Graph API and no third parties will be able to view your email and password.
+
+
+# Contributors
+- There are many ways to improve this project, feel free to contribute with your pull request or contacting me.
 
 # Contact the Author
 - Email : pr0xy07@tutanota.com
