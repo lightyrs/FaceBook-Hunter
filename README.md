@@ -27,5 +27,5 @@ Facebook information gathering tool using Facebook Graph API and Python3.
 - All requests being made from FacebookHunter are for the Facebook's Graph API and no third parties will be able to view your email and password.
 
 # Author
-- Email : janinirami@tutanota.com
+- Email : pr0xy07@tutanota.com
 - Twitter : @pr0xy07
