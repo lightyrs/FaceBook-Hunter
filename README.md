@@ -26,5 +26,5 @@ Facebook information gathering tool using Facebook Graph API and Python3.
 - Dont abuse and overuse this program as it might temporary lock your Facebook account because of 'Suspicious Activity', and will ask you to verify that the account is yours.
 - All requests being made from FacebookHunter are for the Facebook's Graph API and no third parties will be able to view your email and password.
 
-# Author
+# Contact the Author
 - Email : pr0xy07@tutanota.com
