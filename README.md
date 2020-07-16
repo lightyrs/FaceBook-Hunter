@@ -1,5 +1,6 @@
 # Facebook-Hunter
-Facebook Information Gathering Tool.
+Facebook information gathering tool using Facebook Graph API and Python3.
+
 
 # Featues
 - Dump all friends Facebook ID's.
