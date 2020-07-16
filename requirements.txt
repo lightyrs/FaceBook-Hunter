@@ -1,0 +1,2 @@
+requests==2.22.0
+clear_screen==0.1.14
