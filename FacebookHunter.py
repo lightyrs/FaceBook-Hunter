@@ -61,7 +61,7 @@ if __name__ == "__main__":
     print(style.YELLOW('    [*]') + style.RESET(" Read the readme.md page carefully before using FacebookHunter!"))
     print(style.YELLOW('    [*]') + style.RESET(" Abusing this script might end with locking up your Facebook account until you verify it again!"))
     try:
-        warning = str(input(style.RED('\n[!]') + style.RESET(' Do you agree to use FacebookHunter for educational and pentration testing only (y/n): ')))
+        warning = str(input(style.RED('\n[!]') + style.RESET(' Do you agree to use FacebookHunter for educational purposes only (y/n): ')))
     except KeyboardInterrupt:
         print(style.RED('\n[!]') + style.RESET(' Error: User exited.'))
         sys.exit(0)
